@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poker", "Poker\Poker.csproj", "{0E6AFF17-4172-400D-A9BF-56DFEDA50D91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{46A9DD63-8F43-44FF-BB94-1047CB18B3BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{232AAAF6-C505-42DE-8901-8DDD26261286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E6AFF17-4172-400D-A9BF-56DFEDA50D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6AFF17-4172-400D-A9BF-56DFEDA50D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6AFF17-4172-400D-A9BF-56DFEDA50D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6AFF17-4172-400D-A9BF-56DFEDA50D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A9DD63-8F43-44FF-BB94-1047CB18B3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A9DD63-8F43-44FF-BB94-1047CB18B3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A9DD63-8F43-44FF-BB94-1047CB18B3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A9DD63-8F43-44FF-BB94-1047CB18B3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{232AAAF6-C505-42DE-8901-8DDD26261286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232AAAF6-C505-42DE-8901-8DDD26261286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232AAAF6-C505-42DE-8901-8DDD26261286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232AAAF6-C505-42DE-8901-8DDD26261286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

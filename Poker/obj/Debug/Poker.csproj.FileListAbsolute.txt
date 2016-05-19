@@ -1,0 +1,10 @@
+C:\Users\MJMilan\Documents\Visual Studio 2015\Projects\iQmetrix\iQmetrix\Poker\bin\Debug\Poker.exe.config
+C:\Users\MJMilan\Documents\Visual Studio 2015\Projects\iQmetrix\iQmetrix\Poker\bin\Debug\Poker.exe
+C:\Users\MJMilan\Documents\Visual Studio 2015\Projects\iQmetrix\iQmetrix\Poker\bin\Debug\Poker.pdb
+C:\Users\MJMilan\Documents\Visual Studio 2015\Projects\iQmetrix\iQmetrix\Poker\bin\Debug\nunit.framework.dll
+C:\Users\MJMilan\Documents\Visual Studio 2015\Projects\iQmetrix\iQmetrix\Poker\bin\Debug\Poker.Logic.dll
+C:\Users\MJMilan\Documents\Visual Studio 2015\Projects\iQmetrix\iQmetrix\Poker\bin\Debug\Poker.Logic.pdb
+C:\Users\MJMilan\Documents\Visual Studio 2015\Projects\iQmetrix\iQmetrix\Poker\bin\Debug\nunit.framework.xml
+C:\Users\MJMilan\Documents\Visual Studio 2015\Projects\iQmetrix\iQmetrix\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\MJMilan\Documents\Visual Studio 2015\Projects\iQmetrix\iQmetrix\Poker\obj\Debug\Poker.exe
+C:\Users\MJMilan\Documents\Visual Studio 2015\Projects\iQmetrix\iQmetrix\Poker\obj\Debug\Poker.pdb
